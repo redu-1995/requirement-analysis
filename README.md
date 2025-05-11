@@ -100,7 +100,7 @@ These requirements ensure that the system is **efficient, secure, and user-frien
 
 Below is a use case diagram for the event booking system, showing the primary actors and their interactions with the system:
 
-![Use Case Diagram](book_use_case.png)
+![Use Case Diagram](alx-booking-uc.png)
 
 
 ## Acceptance Criteria
